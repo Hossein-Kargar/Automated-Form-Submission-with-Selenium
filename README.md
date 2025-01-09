@@ -31,7 +31,7 @@ This project is a Python-based script that automates the process of filling out 
    - Add the downloaded ChromeDriver to your system's PATH or specify its full path in the script if required.
 
 ### Files
-- **`automation_script.py`:** The main Python script containing the Selenium automation logic.
+- **`automation.py`:** The main Python script containing the Selenium automation logic.
 
 ---
 
