@@ -40,7 +40,7 @@ This project is a Python-based script that automates the process of filling out 
 2. Navigate to the directory where the script is located.
 3. Run the script using the command:
    ```bash
-   python automation_script.py
+   python automation.py
    ```
 4. The script will:
    - Open a browser and navigate to the specified URL.
