@@ -1,4 +1,4 @@
-# Selenium Form Automation Script
+# Automated-Form-Submission-with-Selenium
 
 ## Overview
 This project is a Python-based script that automates the process of filling out and submitting a form on a given webpage using the **Selenium WebDriver**. The script programmatically interacts with the form by identifying specific elements via their IDs, class names, and attributes, and sends data for testing purposes.
